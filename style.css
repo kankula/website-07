@@ -99,7 +99,7 @@ nav .nav-menu li a {
 .header-content {
     width: 100%;
     height: 1200px;
-    background: url('/img/header-1.png') no-repeat;
+    background: url(img/header-1.png) no-repeat;
     background-size: cover;
     position: relative;
     overflow: hidden;
@@ -110,7 +110,7 @@ nav .nav-menu li a {
     content: '';
     width: 100%;
     height: 180px;
-    background: url('/img/Shape1.png') ;
+    background: url(img/Shape1.png) ;
     background-position: center;
     position: absolute;
     top: 0;
@@ -120,7 +120,7 @@ nav .nav-menu li a {
     content: '';
     width: 100%;
     height: 180px;
-    background: url('/img/Shape2.png');
+    background: url(img/Shape2.png);
     background-position: center;
     position: absolute;
     bottom: -120px;
@@ -180,7 +180,7 @@ nav .nav-menu li a {
     content: '';
     width: 700px;
     height: 680px;
-    background: url('/img/Shadow_.png') no-repeat;
+    background: url(img/Shadow_.png) no-repeat;
     background-size: cover;
     position: absolute;
     bottom: 0;
@@ -322,7 +322,7 @@ nav .nav-menu li a {
     content: '';
     width: 100%;
     height: 180px;
-    background: url('/img/Shape1.png') ;
+    background: url(img/Shape1.png) ;
     background-position: center;
     position: absolute;
     top: 0;
@@ -332,7 +332,7 @@ nav .nav-menu li a {
     content: '';
     width: 100%;
     height: 180px;
-    background: url('/img/Shape2.png');
+    background: url(img/Shape2.png);
     background-position: center;
     position: absolute;
     bottom: 0;
@@ -344,7 +344,7 @@ nav .nav-menu li a {
     position: absolute;
     bottom: 200px;
     left: 0;
-    background: url('/img/Shadow_.png') no-repeat;
+    background: url(img/Shadow_.png) no-repeat;
 }
 #section3 .container-text {
     max-width: 1200px;
@@ -369,7 +369,7 @@ nav .nav-menu li a {
 #section4 {
     width: 100%;
     height: 1200px;
-    background: url('/img/EXPLORE.png');
+    background: url(img/EXPLORE.png);
     background-position: center;
     background-size: cover;
     display: flex;
@@ -382,7 +382,7 @@ nav .nav-menu li a {
     content: '';
     width: 100%;
     height: 180px;
-    background: url('/img/Shape1.png') ;
+    background: url(img/Shape1.png) ;
     background-position: center;
     position: absolute;
     top: 0;
@@ -392,7 +392,7 @@ nav .nav-menu li a {
     content: '';
     width: 100%;
     height: 180px;
-    background: url('/img/Shape2.png');
+    background: url(img/Shape2.png);
     background-position: center;
     position: absolute;
     bottom: -120px;
@@ -469,7 +469,7 @@ nav .nav-menu li a {
     position: absolute;
     bottom: -125px;
     right: -80px;
-    background: url('/img/Shadow_.png') no-repeat;
+    background: url(img/Shadow_.png) no-repeat;
     background-size: cover;
     transform: rotate(200deg);
 }
@@ -487,7 +487,7 @@ nav .nav-menu li a {
     content: '';
     width: 100%;
     height: 180px;
-    background: url('/img/Shape1.png') ;
+    background: url(img/Shape1.png) ;
     background-position: center;
     position: absolute;
     top: 0;
@@ -497,7 +497,7 @@ nav .nav-menu li a {
     content: '';
     width: 100%;
     height: 180px;
-    background: url('/img/Shape2.png');
+    background: url(img/Shape2.png);
     background-position: center;
     position: absolute;
     bottom: -120px;
@@ -567,7 +567,7 @@ footer::before {
     content: '';
     width: 100%;
     height: 180px;
-    background: url('/img/Shape1.png') ;
+    background: url(img/Shape1.png) ;
     background-position: center;
     position: absolute;
     top: 0;
